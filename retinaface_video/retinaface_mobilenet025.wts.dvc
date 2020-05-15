@@ -1,0 +1,7 @@
+md5: a817b0b2537c56cbb58ef113b785dcdd
+outs:
+- md5: 67754bdd4a71c63c6da3094a9c69417b
+  path: retinaface_mobilenet025.wts
+  cache: true
+  metric: false
+  persist: false

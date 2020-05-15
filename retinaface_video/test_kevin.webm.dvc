@@ -1,0 +1,7 @@
+md5: ae0b52173b4d7181ff6df7807d2828dc
+outs:
+- md5: ac068aea72fac8971df454698d2675af
+  path: test_kevin.webm
+  cache: true
+  metric: false
+  persist: false

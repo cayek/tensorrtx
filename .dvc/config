@@ -1,0 +1,5 @@
+[cache]
+    type = "hardlink,symlink"
+    protected = true
+['remote "dvcremote"']
+    url = ssh://dvc@dvcremote/home/dvc/opensource/tensorrtx

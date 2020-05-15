@@ -1,0 +1,7 @@
+md5: b7ac81a906649fdae3b5d1300e0dfb53
+outs:
+- md5: 28102bce01b7759cefda20317632467f
+  path: retinaface.wts
+  cache: true
+  metric: false
+  persist: false
